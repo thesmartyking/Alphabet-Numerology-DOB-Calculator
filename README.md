@@ -10,7 +10,7 @@ An Application That Calculates the Name, Place, Any String with its Perfect Acco
 
 ## Screenshots 
 
-<img src="https://raw.githubusercontent.com/thesmartyking/Alphabet-Numerology-DOB-Calculator/refs/heads/main/DOBCalculator.jpg" width="400px"></img>
-<img src="https://raw.githubusercontent.com/thesmartyking/Alphabet-Numerology-DOB-Calculator/refs/heads/main/MobCalculator.jpg" width="400px"></img>
+<a><img src="https://raw.githubusercontent.com/thesmartyking/Alphabet-Numerology-DOB-Calculator/refs/heads/main/DOBCalculator.jpg" width="400px"></img></a>
+<a><img src="https://raw.githubusercontent.com/thesmartyking/Alphabet-Numerology-DOB-Calculator/refs/heads/main/MobCalculator.jpg" width="400px"></img></a>
 
 ---
