@@ -12,7 +12,8 @@ Download this Release Apk for the Android Device > 6.0 :- [**Download App From H
 
 ## Screenshots 
 
-<a><img src="https://raw.githubusercontent.com/thesmartyking/Alphabet-Numerology-DOB-Calculator/refs/heads/main/DOBCalculator.jpg" width="400px"></img></a>
-<a><img src="https://raw.githubusercontent.com/thesmartyking/Alphabet-Numerology-DOB-Calculator/refs/heads/main/MobCalculator.jpg" width="400px"></img></a>
+<img src="https://raw.githubusercontent.com/thesmartyking/Alphabet-Numerology-DOB-Calculator/refs/heads/main/DOBCalculator.jpg" width="300px" />
+
+<img src="https://raw.githubusercontent.com/thesmartyking/Alphabet-Numerology-DOB-Calculator/refs/heads/main/MobCalculator.jpg" width="300px" />
 
 ---
