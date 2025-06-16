@@ -6,6 +6,8 @@ An Application That Calculates the Name, Place, Any String with its Perfect Acco
 
 - **Mobile Number and Date of Birth Numerology Analysis:** Calculates the numerological significance of a user's mobile number, and birth date by summing day, month, and year components to derive the final life path number.
 
+Download this Release Apk for the Android Device > 6.0 :- [**Download App From Here !**](https://github.com/thesmartyking/Alphabet-Numerology-DOB-Calculator/raw/refs/heads/main/Alpha-DOB-Numerology%20Calculator.apk)
+
 ---
 
 ## Screenshots 
